@@ -7,8 +7,7 @@
   </h1>
 <p float="center">
 </p>
-### 自从生长到如今，烟火可曾着一分。
-### 湘水湘波接巫峡，肯从峰上作行云。
+
 ----------------
 ### Hello, my name is Wang Zhixiang. 
 
