@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Wang Zhixiang. I'm interested in computer vision and artificial intelligence. Welcome to my github 👋
 
 <!--
 **homeofzhixiang/homeofzhixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
