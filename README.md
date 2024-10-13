@@ -9,21 +9,12 @@
 <p float="center">
 </p>
 ----------------
--->z
 理想奔波的道路上，
 也见证过绚丽的景色。
 
 风未曾停留，
 那美稍纵即逝，
 亦如我的人生。
-
-
-### Hello, my name is Wang Zhixiang. 
-
-### I'm interested in computer vision and artificial intelligence. 
-
-### Welcome to my github! 👋
-
 <!--
 **homeofzhixiang/homeofzhixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,6 +28,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+
+
+
+
+
+-->
+### Hello, I'm Wang Zhixiang. 
+
+### I'm interested in computer vision and artificial intelligence. 
+
+### Welcome to my github! 👋
 
