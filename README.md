@@ -1,5 +1,21 @@
 <!--
+--------------
+<p align="center">
+  <h1 align="center">自从生长到如今，烟火可曾着一分。
+  </h1>
+ <h1 align="center">
+      湘水湘波接巫峡，肯从峰上作行云。
+  </h1>
+<p float="center">
+</p>
+----------------
+-->z
+理想奔波的道路上，
+也见证过绚丽的景色。
 
+风未曾停留，
+那美稍纵即逝，
+亦如我的人生。
 
 
 ### Hello, my name is Wang Zhixiang. 
@@ -23,20 +39,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
---------------
-<p align="center">
-  <h1 align="center">自从生长到如今，烟火可曾着一分。
-  </h1>
- <h1 align="center">
-      湘水湘波接巫峡，肯从峰上作行云。
-  </h1>
-<p float="center">
-</p>
-----------------
--->
-理想奔波的道路上，
-也见证过绚丽的景色。
 
-风未曾停留，
-那美稍纵即逝，
-亦如我的人生。
